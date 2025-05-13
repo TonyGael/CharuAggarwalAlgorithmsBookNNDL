@@ -20,7 +20,7 @@ El perceptrón toma una entrada `x` (un vector de características) y predice un
 ```
 
 📖 **Lectura matemática precisa**:  
-“La y sombrero es igual al signo de el producto punto entre el vector de pesos w transpuesto y el vector de características x, más el sesgo b.”
+“La y predicha es igual al signo de el producto punto entre el vector de pesos W transpuesto y el vector de características X, más el sesgo b.”
 
 ---
 
